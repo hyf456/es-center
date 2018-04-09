@@ -1,0 +1,13 @@
+com\hivescm\scm\service\common\bean\Page.class
+com\hivescm\scm\service\scm\queue\SCMQueue.class
+com\hivescm\scm\service\start\AppStart.class
+com\hivescm\scm\service\common\bean\MultiQueryObject.class
+com\hivescm\scm\service\scm\service\BaseService.class
+com\hivescm\scm\service\common\bean\ESResponse.class
+com\hivescm\scm\service\scm\service\ESReleaseDealerService.class
+com\hivescm\scm\service\scm\dto\QueryGoodsDto.class
+com\hivescm\scm\service\config\RabbitMQService.class
+com\hivescm\scm\service\start\config\SwaggerConfig.class
+com\hivescm\scm\service\common\bean\QueryFilter.class
+com\hivescm\scm\service\common\bean\QueryObject.class
+com\hivescm\scm\service\scm\api\QueryGoodsService.class
